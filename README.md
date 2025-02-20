@@ -1,0 +1,1 @@
+This repository demonstrates a potential integer overflow bug in a short snippet of assembly code. The bug involves adding two registers without checking for overflow conditions. The solution shows how to add a check for overflow before performing the addition.
